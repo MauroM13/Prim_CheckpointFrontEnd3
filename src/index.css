@@ -1,0 +1,39 @@
+
+.app {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilos para os inputs e botão no formulário */
+input[type="text"],
+button {
+  font-size: 2rem;
+  background-color: #FFD700;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estilos para a mensagem de erro */
+.error {
+  font-size: 2rem;
+  background-color: #FFD700;
+  color: red;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+/* Estilos para os cards */
+.card {
+  font-size: 2rem;
+  background-color: #FFD700;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+}
